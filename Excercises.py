@@ -51,6 +51,4 @@ def min2():
         print(a,"is lesser")
     else:
         print(b,"is lesser")
-
-
-
+min2()
