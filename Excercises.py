@@ -51,4 +51,19 @@ def min2():
         print(a,"is lesser")
     else:
         print(b,"is lesser")
-min2()
+def search1():
+    l=[1,2,3,4,5,7,"s"]
+    k=3
+    #c=0
+    for i in l:
+       if i==k:
+            print("found")
+            c=1
+            break
+    if c==0:
+       print("not")
+def reverse1():
+    sr=[1,2,3,4,5,6,7,8,9]
+    for i in range(10,1):
+        print(sr[i])
+reverse1()
