@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/Mr-Srinu/DS",
-      "program": "/workspaces/Mr-Srinu/DS/build/Debug/outDebug",
+      "cwd": "/workspaces/Mr-Srinu",
+      "program": "/workspaces/Mr-Srinu/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
