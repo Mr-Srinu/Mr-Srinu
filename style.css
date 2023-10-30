@@ -1,0 +1,20 @@
+.nav{
+    background-color:black;
+    height: 50px;
+}
+#1{
+    color : yellow;
+    margin-right: 50px;
+    height: 50px;
+    background-color: red;
+}
+#2{
+    color: #fffff1;
+    margin-right: 50px;
+    display: inline;   
+} 
+#3{
+    color: #fffff1;
+    margin-right: 50px;   
+    
+}
